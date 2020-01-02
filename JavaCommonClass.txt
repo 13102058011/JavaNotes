@@ -1,0 +1,7 @@
+
+1.java.lang.reflect 	类 Modifier
+	Modifier类提供了static方法和常量，对类和成员访问的修饰符进行解码
+
+2.java.lang.reflect 	类 Field
+	Field提供有关类或接口的单个字段的信息，以及对它的动态访问权限
+
