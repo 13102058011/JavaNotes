@@ -5,3 +5,6 @@
 2.java.lang.reflect 	类 Field
 	Field提供有关类或接口的单个字段的信息，以及对它的动态访问权限
 
+3.java.lang.reflect 	接口 InvocationHandler
+	InvocationHandler是代理实例的调用处理程序实现的接口
+
