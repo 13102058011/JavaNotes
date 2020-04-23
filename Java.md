@@ -1,3 +1,9 @@
+[toc]
+
+
+
+
+
 ### Java基础
 
 #### Hello World
@@ -529,7 +535,13 @@ System.out.println(arr);
 
 ### Java的内存划分
 
+Java的内存需要划分为5个部分，如下图所示，在这里我们同样只简单的介绍一下，让大家有个大致的认识即可
+
+
+
 ![](https://raw.githubusercontent.com/lijiangdong/study-notes/master/JVMNotes/imgs/03-01.png)
+
+
 
 
 
